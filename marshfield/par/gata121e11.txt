@@ -1,0 +1,31 @@
+
+Marker: GATA121E11
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 160 - 0.130
+   2) 156 - 0.111
+   3) 153 - 0.019
+   4) 152 - 0.019
+   5) 149 - 0.111
+   6) 148 - 0.130
+   7) 145 - 0.130
+   8) 141 - 0.056
+   9) 137 - 0.074
+  10) 133 - 0.148
+  11) 129 - 0.074
+
+Het: 0.888
+PIC: 0.879
+
+Individuals Used: 27 of 133
+
+1331-01: 160 148
+1331-02: 145 133
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

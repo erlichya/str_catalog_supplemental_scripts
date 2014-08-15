@@ -1,0 +1,28 @@
+
+Marker: 203yg9
+
+Project: CEPH
+
+Date: Tuesday, August 20, 1996
+
+Frequencies:
+   1) 195 - 0.014
+   2) 193 - 0.148
+   3) 191 - 0.042
+   4) 189 - 0.120
+   5) 187 - 0.261
+   6) 185 - 0.021
+   7) 183 - 0.007
+   8) 175 - 0.387
+
+Het: 0.743
+PIC: 0.708
+
+Individuals Used: 71 of 266
+
+1331-01: 193 187
+1331-02: 189 175
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

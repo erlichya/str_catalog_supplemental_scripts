@@ -1,0 +1,33 @@
+
+Marker: GATA178G09
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 195 - 0.005
+   2) 191 - 0.015
+   3) 187 - 0.325
+   4) 183 - 0.464
+   5) 179 - 0.082
+   6) 175 - 0.026
+   7) 171 - 0.082
+
+Het: 0.665
+PIC: 0.658
+
+Individuals Used: 97 of 397
+
+1331-01: 183 171
+1331-02: 171 171
+
+Mutations:  
+   1347-10 *
+   1341-13 *
+   1377-10 &
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

@@ -1,0 +1,33 @@
+
+Marker: GATA44E05
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 165 - 0.015
+   2) 161 - 0.085
+   3) 157 - 0.135
+   4) 154 - 0.050
+   5) 153 - 0.035
+   6) 150 - 0.105
+   7) 149 - 0.070
+   8) 146 - 0.130
+   9) 145 - 0.020
+  10) 142 - 0.055
+  11) 138 - 0.075
+  12) 134 - 0.140
+  13) 130 - 0.085
+
+Het: 0.902
+PIC: 0.895
+
+Individuals Used: 100 of 397
+
+1331-01: 161 149
+1331-02: 146 134
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

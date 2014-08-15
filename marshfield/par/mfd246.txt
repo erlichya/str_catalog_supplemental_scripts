@@ -1,0 +1,33 @@
+
+Marker: Mfd246
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 173 - 0.042
+   2) 171 - 0.025
+   3) 169 - 0.059
+   4) 167 - 0.059
+   5) 165 - 0.136
+   6) 163 - 0.068
+   7) 161 - 0.025
+   8) 159 - 0.025
+   9) 157 - 0.034
+  10) 155 - 0.085
+  11) 153 - 0.161
+  12) 151 - 0.246
+  13) 149 - 0.034
+
+Het: 0.870
+PIC: 0.862
+
+Individuals Used: 59 of 247
+
+1331-01: 167 155
+1331-02: 165 151
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,28 @@
+
+Marker: ATA10D05
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 141 - 0.025
+   2) 138 - 0.075
+   3) 135 - 0.075
+   4) 132 - 0.150
+   5) 129 - 0.100
+   6) 126 - 0.275
+   7) 123 - 0.150
+   8) 120 - 0.150
+
+Het: 0.835
+PIC: 0.822
+
+Individuals Used: 20 of 99
+
+1331-01: 126 126
+1331-02: 135 132
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

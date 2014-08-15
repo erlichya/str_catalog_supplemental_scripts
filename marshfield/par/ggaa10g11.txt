@@ -1,0 +1,27 @@
+
+Marker: GGAA10G11
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 238 - 0.060
+   2) 234 - 0.040
+   3) 230 - 0.020
+   4) 226 - 0.220
+   5) 222 - 0.460
+   6) 218 - 0.160
+   7) 214 - 0.040
+
+Het: 0.707
+PIC: 0.701
+
+Individuals Used: 25 of 134
+
+1331-01: 222 218
+1331-02: 222 218
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

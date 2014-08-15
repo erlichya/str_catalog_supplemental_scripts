@@ -1,0 +1,27 @@
+
+Marker: ATA79C10
+
+Project: CEPH
+
+Date: Thursday, June 06, 1996
+
+Frequencies:
+   1) 256 - 0.120
+   2) 253 - 0.160
+   3) 250 - 0.300
+   4) 247 - 0.240
+   5) 244 - 0.040
+   6) 241 - 0.020
+   7) 235 - 0.120
+
+Het: 0.796
+PIC: 0.783
+
+Individuals Used: 25 of 133
+
+1331-01: 250 247
+1331-02: 253 244
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

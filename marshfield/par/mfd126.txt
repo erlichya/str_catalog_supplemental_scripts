@@ -1,0 +1,45 @@
+
+Marker: Mfd126
+
+Project: CEPH
+
+Date: Thursday, May 16, 1996
+
+Frequencies:
+   1) 700 - 0.011
+   2) 600 - 0.033
+   3) 500 - 0.073
+   4) 400 - 0.212
+   5) 300 - 0.252
+   6) 200 - 0.226
+   7) 100 - 0.193
+
+Het: 0.797
+PIC: 0.782
+
+Individuals Used: 137 of 522
+
+1331-01: 181 163
+1331-02: 187 163
+
+Mutations:  none
+
+Mendelian Check:  16 Error(s) Found
+
+Family 1331...
+ - ERROR(1331-1): Invalid Genotype
+ - ERROR(1331-2): Invalid Genotype
+ - ERROR(1331-3): Invalid Genotype
+ - ERROR(1331-4): Invalid Genotype
+ - ERROR(1331-5): Invalid Genotype
+ - ERROR(1331-6): Invalid Genotype
+ - ERROR(1331-7): Invalid Genotype
+ - ERROR(1331-8): Invalid Genotype
+ - ERROR(1331-9): Invalid Genotype
+ - ERROR(1331-10): Invalid Genotype
+ - ERROR(1331-11): Invalid Genotype
+ - ERROR(1331-16): Invalid Genotype
+ - ERROR(1331-17): Invalid Genotype
+ - ERROR(1331: parents 12-13): Too many alleles
+ - ERROR(1331: parents 14-15): Too many alleles
+ - ERROR(1331: parents 1-2): Too many alleles

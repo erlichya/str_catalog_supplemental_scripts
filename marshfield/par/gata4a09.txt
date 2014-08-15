@@ -1,0 +1,35 @@
+
+Marker: GATA4A09
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 308 - 0.031
+   2) 304 - 0.066
+   3) 302 - 0.010
+   4) 300 - 0.087
+   5) 298 - 0.020
+   6) 296 - 0.031
+   7) 294 - 0.194
+   8) 290 - 0.357
+   9) 286 - 0.189
+  10) 282 - 0.015
+
+Het: 0.785
+PIC: 0.776
+
+Individuals Used: 98 of 405
+
+1331-01: 304 300
+1331-02: 286 286
+
+Mutations:  
+    884-16 *
+    884-17 *
+   1347-04 *
+   1333-13 *
+   1418-10 *
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,30 @@
+
+Marker: CSF1R
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 127 - 0.008
+   2) 125 - 0.008
+   3) 123 - 0.017
+   4) 121 - 0.092
+   5) 119 - 0.067
+   6) 117 - 0.292
+   7) 115 - 0.242
+   8) 113 - 0.042
+   9) 111 - 0.200
+  10) 109 - 0.033
+
+Het: 0.800
+PIC: 0.784
+
+Individuals Used: 60 of 248
+
+1331-01: 117 111
+1331-02: 119 109
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

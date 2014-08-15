@@ -1,0 +1,24 @@
+
+Marker: ATA26B12
+
+Project: CEPH
+
+Date: Thursday, May 16, 1996
+
+Frequencies:
+   1) 142 - 0.022
+   2) 139 - 0.152
+   3) 136 - 0.152
+   4) 127 - 0.674
+
+Het: 0.499
+PIC: 0.478
+
+Individuals Used: 23 of 133
+
+1331-01: 139 127
+1331-02: 142 136
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

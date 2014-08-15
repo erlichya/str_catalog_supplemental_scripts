@@ -1,0 +1,30 @@
+
+Marker: GGAA20F08
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 255 - 0.010
+   2) 251 - 0.035
+   3) 247 - 0.060
+   4) 243 - 0.070
+   5) 239 - 0.280
+   6) 235 - 0.490
+   7) 231 - 0.035
+   8) 227 - 0.020
+
+Het: 0.670
+PIC: 0.664
+
+Individuals Used: 100 of 397
+
+1331-01: 235 235
+1331-02: 235 235
+
+Mutations:  
+   1408-08 *
+   1423-06 *
+
+Mendelian Check:  No Mendelian errors

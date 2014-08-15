@@ -1,0 +1,33 @@
+
+Marker: ATA29D04
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 156 - 0.016
+   2) 153 - 0.064
+   3) 150 - 0.314
+   4) 147 - 0.144
+   5) 144 - 0.021
+   6) 141 - 0.037
+   7) 138 - 0.043
+   8) 135 - 0.122
+   9) 132 - 0.021
+  10) 129 - 0.218
+
+Het: 0.810
+PIC: 0.791
+
+Individuals Used: 94 of 397
+
+1331-01: 150 135
+1331-02: 150 135
+
+Mutations:  
+   1334-06 *
+  13291-06 &
+   1345-02 *
+
+Mendelian Check:  No Mendelian errors

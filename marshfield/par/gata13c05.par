@@ -1,0 +1,33 @@
+
+Marker: GATA13C05
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 296 - 0.056
+   2) 292 - 0.056
+   3) 288 - 0.111
+   4) 280 - 0.037
+   5) 276 - 0.111
+   6) 272 - 0.074
+   7) 268 - 0.296
+   8) 264 - 0.241
+   9) 260 - 0.019
+
+Het: 0.816
+PIC: 0.805
+
+Individuals Used: 27 of 133
+
+1331-01: 296 264
+1331-02: 292 268
+
+Mutations:  none
+
+Mendelian Check:  2 Error(s) Found
+
+Family 1416...
+ - ERROR(1416-15): Invalid Genotype
+ - ERROR(1416: parents 1-2): Incompatibility

@@ -1,0 +1,31 @@
+
+Marker: GATA12A07
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 216 - 0.005
+   2) 214 - 0.016
+   3) 212 - 0.163
+   4) 210 - 0.137
+   5) 208 - 0.116
+   6) 206 - 0.279
+   7) 204 - 0.089
+   8) 202 - 0.047
+   9) 200 - 0.132
+  10) 196 - 0.016
+
+Het: 0.835
+PIC: 0.821
+
+Individuals Used: 95 of 398
+
+1331-01: 210 208
+1331-02: 206 206
+
+Mutations:  
+    104-01 *
+
+Mendelian Check:  No Mendelian errors

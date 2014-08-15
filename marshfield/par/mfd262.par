@@ -1,0 +1,28 @@
+
+Marker: Mfd262
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 109 - 0.041
+   2) 107 - 0.122
+   3) 105 - 0.418
+   4) 103 - 0.112
+   5) 101 - 0.010
+   6)  99 - 0.204
+   7)  97 - 0.010
+   8)  89 - 0.082
+
+Het: 0.747
+PIC: 0.726
+
+Individuals Used: 49 of 200
+
+1331-01: 103  99
+1331-02: 105  89
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

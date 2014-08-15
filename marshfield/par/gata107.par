@@ -1,0 +1,30 @@
+
+Marker: GATA107
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 210 - 0.016
+   2) 206 - 0.089
+   3) 202 - 0.380
+   4) 198 - 0.245
+   5) 194 - 0.161
+   6) 190 - 0.036
+   7) 186 - 0.031
+   8) 182 - 0.042
+
+Het: 0.757
+PIC: 0.746
+
+Individuals Used: 96 of 401
+
+1331-01: 202 198
+1331-02: 198 198
+
+Mutations:  
+   1346-06 *
+   1421-08 &
+
+Mendelian Check:  No Mendelian errors

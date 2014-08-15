@@ -1,0 +1,28 @@
+
+Marker: GATA165C03
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 268 - 0.111
+   2) 264 - 0.389
+   3) 260 - 0.185
+   4) 256 - 0.037
+   5) 252 - 0.241
+   6) 248 - 0.019
+   7) 244 - 0.019
+
+Het: 0.742
+PIC: 0.718
+
+Individuals Used: 27 of 133
+
+1331-01: 264 264
+1331-02: 260 252
+
+Mutations:  
+    884-08 *
+
+Mendelian Check:  No Mendelian errors

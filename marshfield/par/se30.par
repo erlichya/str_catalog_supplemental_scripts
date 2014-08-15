@@ -1,0 +1,33 @@
+
+Marker: SE30
+
+Project: CEPH
+
+Date: Tuesday, August 20, 1996
+
+Frequencies:
+   1) 229 - 0.007
+   2) 227 - 0.007
+   3) 225 - 0.014
+   4) 223 - 0.007
+   5) 221 - 0.014
+   6) 217 - 0.007
+   7) 211 - 0.007
+   8) 199 - 0.007
+   9) 195 - 0.355
+  10) 191 - 0.319
+  11) 187 - 0.138
+  12) 183 - 0.036
+  13) 181 - 0.080
+
+Het: 0.745
+PIC: 0.736
+
+Individuals Used: 69 of 266
+
+1331-01: 195 183
+1331-02: 195 187
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

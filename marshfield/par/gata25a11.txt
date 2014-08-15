@@ -1,0 +1,27 @@
+
+Marker: GATA25A11
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 243 - 0.042
+   2) 239 - 0.063
+   3) 235 - 0.375
+   4) 231 - 0.104
+   5) 228 - 0.021
+   6) 227 - 0.375
+   7) 223 - 0.021
+
+Het: 0.701
+PIC: 0.656
+
+Individuals Used: 24 of 133
+
+1331-01: 243 239
+1331-02: 235 227
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

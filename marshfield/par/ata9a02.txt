@@ -1,0 +1,23 @@
+
+Marker: ATA9A02
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 222 - 0.111
+   2) 219 - 0.185
+   3) 216 - 0.704
+
+Het: 0.458
+PIC: 0.446
+
+Individuals Used: 27 of 133
+
+1331-01: 216 216
+1331-02: 219 216
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

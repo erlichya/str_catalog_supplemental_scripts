@@ -1,0 +1,30 @@
+
+Marker: GATA27E01
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 183 - 0.005
+   2) 179 - 0.051
+   3) 175 - 0.204
+   4) 171 - 0.469
+   5) 167 - 0.051
+   6) 163 - 0.097
+   7) 159 - 0.117
+   8) 155 - 0.005
+
+Het: 0.710
+PIC: 0.696
+
+Individuals Used: 98 of 397
+
+1331-01: 171 163
+1331-02: 175 171
+
+Mutations:  
+   1362-09 *
+   1423-05 *
+
+Mendelian Check:  No Mendelian errors

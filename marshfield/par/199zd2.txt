@@ -1,0 +1,29 @@
+
+Marker: 199zd2
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 132 - 0.071
+   2) 130 - 0.107
+   3) 128 - 0.071
+   4) 126 - 0.143
+   5) 124 - 0.036
+   6) 122 - 0.250
+   7) 118 - 0.071
+   8) 116 - 0.214
+   9) 102 - 0.036
+
+Het: 0.842
+PIC: 0.825
+
+Individuals Used: 28 of 131
+
+1331-01: 122 130
+1331-02: 122 116
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

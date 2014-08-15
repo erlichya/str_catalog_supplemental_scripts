@@ -1,0 +1,29 @@
+
+Marker: GGAA8F12
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 246 - 0.019
+   2) 242 - 0.074
+   3) 238 - 0.037
+   4) 234 - 0.093
+   5) 230 - 0.074
+   6) 226 - 0.093
+   7) 222 - 0.593
+   8) 210 - 0.019
+
+Het: 0.619
+PIC: 0.603
+
+Individuals Used: 27 of 134
+
+1331-01: 230 222
+1331-02: 222 222
+
+Mutations:  
+    884-17 *
+
+Mendelian Check:  No Mendelian errors

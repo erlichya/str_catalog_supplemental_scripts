@@ -1,0 +1,31 @@
+
+Marker: GATA32F05
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 286 - 0.005
+   2) 282 - 0.010
+   3) 278 - 0.066
+   4) 274 - 0.291
+   5) 270 - 0.230
+   6) 266 - 0.097
+   7) 262 - 0.036
+   8) 258 - 0.250
+   9) 250 - 0.015
+
+Het: 0.785
+PIC: 0.763
+
+Individuals Used: 98 of 397
+
+1331-01: 274 274
+1331-02: 282 270
+
+Mutations:  
+   1341-10 *
+   1418-05 *
+
+Mendelian Check:  No Mendelian errors

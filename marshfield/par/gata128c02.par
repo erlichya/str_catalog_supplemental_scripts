@@ -1,0 +1,31 @@
+
+Marker: GATA128C02
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 167 - 0.093
+   2) 163 - 0.211
+   3) 159 - 0.196
+   4) 155 - 0.088
+   5) 151 - 0.381
+   6) 147 - 0.031
+
+Het: 0.754
+PIC: 0.726
+
+Individuals Used: 97 of 397
+
+1331-01: 163 151
+1331-02: 163 151
+
+Mutations:  
+   1416-05 &
+   1377-01 *
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

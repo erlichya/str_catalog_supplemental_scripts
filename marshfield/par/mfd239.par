@@ -1,0 +1,32 @@
+
+Marker: Mfd239
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 244 - 0.008
+   2) 240 - 0.038
+   3) 236 - 0.193
+   4) 232 - 0.269
+   5) 228 - 0.105
+   6) 224 - 0.017
+   7) 220 - 0.021
+   8) 216 - 0.050
+   9) 212 - 0.298
+
+Het: 0.786
+PIC: 0.762
+
+Individuals Used: 119 of 477
+
+1331-01: 236 232
+1331-02: 228 212
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 884...
+ - ERROR(884-12): Invalid Genotype

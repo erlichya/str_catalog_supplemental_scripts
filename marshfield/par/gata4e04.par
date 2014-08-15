@@ -1,0 +1,32 @@
+
+Marker: GATA4E04
+
+Project: CEPH
+
+Date: Thursday, May 16, 1996
+
+Frequencies:
+   1) 228 - 0.005
+   2) 224 - 0.065
+   3) 220 - 0.275
+   4) 216 - 0.385
+   5) 212 - 0.120
+   6) 208 - 0.080
+   7) 204 - 0.065
+   8) 200 - 0.005
+
+Het: 0.747
+PIC: 0.738
+
+Individuals Used: 100 of 401
+
+1331-01: 216 216
+1331-02: 224 220
+
+Mutations:  
+   1424-09 *
+   1418-03 *
+   1350-03 &
+   1350-06 *
+
+Mendelian Check:  No Mendelian errors

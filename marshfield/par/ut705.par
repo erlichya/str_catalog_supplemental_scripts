@@ -1,0 +1,30 @@
+
+Marker: UT705
+
+Project: CEPH
+
+Date: Tuesday, May 14, 1996
+
+Frequencies:
+   1) 267 - 0.188
+   2) 263 - 0.188
+   3) 259 - 0.125
+   4) 255 - 0.125
+   5) 247 - 0.063
+   6) 243 - 0.063
+   7) 239 - 0.083
+   8) 231 - 0.104
+   9) 227 - 0.042
+  10) 219 - 0.021
+
+Het: 0.871
+PIC: 0.862
+
+Individuals Used: 24 of 196
+
+1331-01: 267 255
+1331-02: 259 255
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

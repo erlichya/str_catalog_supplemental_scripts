@@ -1,0 +1,29 @@
+
+Marker: 280we5
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 193 - 0.007
+   2) 191 - 0.129
+   3) 189 - 0.336
+   4) 187 - 0.029
+   5) 185 - 0.129
+   6) 183 - 0.243
+   7) 179 - 0.007
+   8) 173 - 0.121
+
+Het: 0.780
+PIC: 0.754
+
+Individuals Used: 70 of 266
+
+1331-01: 191 189
+1331-02: 189 189
+
+Mutations:  
+   1344-01 &
+
+Mendelian Check:  No Mendelian errors

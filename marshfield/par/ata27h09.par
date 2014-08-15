@@ -1,0 +1,30 @@
+
+Marker: ATA27H09
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 162 - 0.005
+   2) 159 - 0.050
+   3) 156 - 0.195
+   4) 153 - 0.255
+   5) 150 - 0.220
+   6) 147 - 0.160
+   7) 144 - 0.030
+   8) 141 - 0.080
+   9) 138 - 0.005
+
+Het: 0.813
+PIC: 0.801
+
+Individuals Used: 100 of 397
+
+1331-01: 156 147
+1331-02: 153 150
+
+Mutations:  
+   1362-12 *
+
+Mendelian Check:  No Mendelian errors

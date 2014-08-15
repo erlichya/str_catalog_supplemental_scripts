@@ -1,0 +1,30 @@
+
+Marker: IL9
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 130 - 0.008
+   2) 128 - 0.017
+   3) 126 - 0.229
+   4) 124 - 0.153
+   5) 122 - 0.246
+   6) 120 - 0.144
+   7) 118 - 0.085
+   8) 116 - 0.017
+   9) 102 - 0.102
+
+Het: 0.825
+PIC: 0.810
+
+Individuals Used: 59 of 248
+
+1331-01: 126 124
+1331-02: 124 122
+
+Mutations:  
+   1346-06 *
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,30 @@
+
+Marker: Mfd247
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 107 - 0.020
+   2) 105 - 0.061
+   3) 103 - 0.112
+   4) 101 - 0.020
+   5)  99 - 0.102
+   6)  97 - 0.673
+   7)  89 - 0.010
+
+Het: 0.519
+PIC: 0.503
+
+Individuals Used: 49 of 202
+
+1331-01:  99  97
+1331-02: 105 101
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1416...
+ - ERROR(1416-5): Invalid Genotype

@@ -1,0 +1,27 @@
+
+Marker: GATA31D05
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 320 - 0.075
+   2) 316 - 0.175
+   3) 312 - 0.125
+   4) 308 - 0.325
+   5) 306 - 0.025
+   6) 304 - 0.125
+   7) 300 - 0.150
+
+Het: 0.804
+PIC: 0.784
+
+Individuals Used: 20 of 133
+
+1331-01: 308 304
+1331-02: 312 300
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

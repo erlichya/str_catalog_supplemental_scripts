@@ -1,0 +1,26 @@
+
+Marker: ATA41E08
+
+Project: CEPH
+
+Date: Thursday, May 16, 1996
+
+Frequencies:
+   1) 113 - 0.100
+   2) 110 - 0.200
+   3) 107 - 0.500
+   4) 104 - 0.100
+   5) 101 - 0.050
+   6)  92 - 0.050
+
+Het: 0.685
+PIC: 0.676
+
+Individuals Used: 10 of 83
+
+1331-01: 110 107
+1331-02: 107 104
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

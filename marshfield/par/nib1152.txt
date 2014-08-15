@@ -1,0 +1,33 @@
+
+Marker: NIB1152
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 183 - 0.034
+   2) 181 - 0.059
+   3) 179 - 0.119
+   4) 177 - 0.178
+   5) 175 - 0.110
+   6) 173 - 0.093
+   7) 171 - 0.161
+   8) 169 - 0.008
+   9) 167 - 0.017
+  10) 165 - 0.212
+  11) 163 - 0.008
+
+Het: 0.858
+PIC: 0.844
+
+Individuals Used: 59 of 267
+
+1331-01: 177 165
+1331-02: 179 165
+
+Mutations:  
+    884-17 *
+   1349-11 *
+
+Mendelian Check:  No Mendelian errors

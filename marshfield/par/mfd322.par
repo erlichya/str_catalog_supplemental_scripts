@@ -1,0 +1,30 @@
+
+Marker: Mfd322
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 160 - 0.152
+   2) 158 - 0.022
+   3) 156 - 0.109
+   4) 154 - 0.043
+   5) 152 - 0.511
+   6) 151 - 0.011
+   7) 150 - 0.011
+   8) 149 - 0.141
+
+Het: 0.681
+PIC: 0.650
+
+Individuals Used: 46 of 196
+
+1331-01: 154 152
+1331-02: 152 149
+
+Mutations:  
+   1332-15 *
+   1332-16 *
+
+Mendelian Check:  No Mendelian errors

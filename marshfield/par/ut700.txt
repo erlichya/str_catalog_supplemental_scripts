@@ -1,0 +1,28 @@
+
+Marker: UT700
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 123 - 0.010
+   2) 121 - 0.020
+   3) 119 - 0.010
+   4) 117 - 0.031
+   5) 115 - 0.031
+   6) 113 - 0.653
+   7) 111 - 0.051
+   8) 109 - 0.194
+
+Het: 0.531
+PIC: 0.497
+
+Individuals Used: 49 of 198
+
+1331-01: 115 113
+1331-02: 113 113
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

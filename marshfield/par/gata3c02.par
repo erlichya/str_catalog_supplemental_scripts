@@ -1,0 +1,30 @@
+
+Marker: GATA3C02
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 163 - 0.030
+   2) 159 - 0.130
+   3) 155 - 0.155
+   4) 151 - 0.325
+   5) 147 - 0.165
+   6) 143 - 0.075
+   7) 139 - 0.115
+   8) 131 - 0.005
+
+Het: 0.806
+PIC: 0.794
+
+Individuals Used: 100 of 398
+
+1331-01: 151 143
+1331-02: 159 151
+
+Mutations:  
+   1423-05 *
+   1340-12 *
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,30 @@
+
+Marker: ATA20F08
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 273 - 0.016
+   2) 270 - 0.133
+   3) 267 - 0.037
+   4) 264 - 0.016
+   5) 261 - 0.064
+   6) 258 - 0.436
+   7) 255 - 0.229
+   8) 252 - 0.064
+   9) 249 - 0.005
+
+Het: 0.730
+PIC: 0.718
+
+Individuals Used: 94 of 397
+
+1331-01: 270 258
+1331-02: 261 258
+
+Mutations:  
+    102-08 &
+
+Mendelian Check:  No Mendelian errors

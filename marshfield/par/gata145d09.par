@@ -1,0 +1,29 @@
+
+Marker: GATA145D09
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 237 - 0.020
+   2) 233 - 0.121
+   3) 229 - 0.520
+   4) 225 - 0.207
+   5) 221 - 0.081
+   6) 217 - 0.051
+
+Het: 0.662
+PIC: 0.655
+
+Individuals Used: 99 of 397
+
+1331-01: 237 233
+1331-02: 225 217
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

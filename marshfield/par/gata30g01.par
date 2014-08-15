@@ -1,0 +1,33 @@
+
+Marker: GATA30G01
+
+Project: CEPH
+
+Date: Tuesday, May 14, 1996
+
+Frequencies:
+   1) 252 - 0.005
+   2) 248 - 0.087
+   3) 244 - 0.196
+   4) 240 - 0.283
+   5) 236 - 0.217
+   6) 232 - 0.152
+   7) 228 - 0.011
+   8) 224 - 0.043
+   9) 220 - 0.005
+
+Het: 0.802
+PIC: 0.790
+
+Individuals Used: 92 of 397
+
+1331-01: 244 224
+1331-02: 240 232
+
+Mutations:  
+    102-04 *
+   1347-12 &
+   1413-19 *
+   1416-09 *
+
+Mendelian Check:  No Mendelian errors

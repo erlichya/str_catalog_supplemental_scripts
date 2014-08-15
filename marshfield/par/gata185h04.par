@@ -1,0 +1,30 @@
+
+Marker: GATA185H04
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 167 - 0.026
+   2) 163 - 0.194
+   3) 159 - 0.163
+   4) 155 - 0.087
+   5) 151 - 0.173
+   6) 147 - 0.179
+   7) 139 - 0.179
+
+Het: 0.834
+PIC: 0.818
+
+Individuals Used: 98 of 397
+
+1331-01: 155 139
+1331-02: 151 139
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

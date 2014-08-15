@@ -1,0 +1,39 @@
+
+Marker: Mfd275
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 199 - 0.011
+   2) 173 - 0.032
+   3) 171 - 0.160
+   4) 169 - 0.255
+   5) 167 - 0.117
+   6) 165 - 0.170
+   7) 163 - 0.021
+   8) 161 - 0.096
+   9) 159 - 0.128
+  10) 155 - 0.011
+
+Het: 0.840
+PIC: 0.826
+
+Individuals Used: 47 of 198
+
+1331-01: 171 159
+1331-02: 169 159
+
+Mutations:  
+   1333-10 *
+
+Mendelian Check:  4 Error(s) Found
+
+Family 1347...
+ - ERROR(1347-2): Invalid Genotype
+ - ERROR(1347: parents 14-15): Too many alleles
+
+Family 1344...
+ - ERROR(1344-9): Invalid Genotype
+ - ERROR(1344: parents 1-2): Too many alleles

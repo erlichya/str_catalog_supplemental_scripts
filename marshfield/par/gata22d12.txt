@@ -1,0 +1,26 @@
+
+Marker: GATA22D12
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 128 - 0.008
+   2) 124 - 0.042
+   3) 120 - 0.551
+   4) 116 - 0.305
+   5) 112 - 0.085
+   6) 104 - 0.008
+
+Het: 0.594
+PIC: 0.590
+
+Individuals Used: 59 of 267
+
+1331-01: 128 116
+1331-02: 124 120
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

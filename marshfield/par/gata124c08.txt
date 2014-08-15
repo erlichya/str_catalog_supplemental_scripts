@@ -1,0 +1,25 @@
+
+Marker: GATA124C08
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 163 - 0.018
+   2) 159 - 0.107
+   3) 155 - 0.482
+   4) 151 - 0.250
+   5) 147 - 0.143
+
+Het: 0.673
+PIC: 0.661
+
+Individuals Used: 28 of 133
+
+1331-01: 155 151
+1331-02: 155 147
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

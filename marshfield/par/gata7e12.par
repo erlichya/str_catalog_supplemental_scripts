@@ -1,0 +1,33 @@
+
+Marker: GATA7E12
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 192 - 0.005
+   2) 188 - 0.038
+   3) 184 - 0.098
+   4) 180 - 0.022
+   5) 176 - 0.109
+   6) 172 - 0.255
+   7) 168 - 0.272
+   8) 164 - 0.190
+   9) 160 - 0.011
+
+Het: 0.801
+PIC: 0.790
+
+Individuals Used: 92 of 397
+
+1331-01: 172 172
+1331-02: 172 164
+
+Mutations:  
+   1362-08 *
+   1416-03 *
+   1416-08 &
+   1334-04 *
+
+Mendelian Check:  No Mendelian errors

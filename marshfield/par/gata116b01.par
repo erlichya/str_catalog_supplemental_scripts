@@ -1,0 +1,35 @@
+
+Marker: GATA116B01
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 209 - 0.026
+   2) 205 - 0.026
+   3) 201 - 0.072
+   4) 197 - 0.041
+   5) 193 - 0.046
+   6) 189 - 0.227
+   7) 185 - 0.314
+   8) 181 - 0.227
+   9) 177 - 0.015
+  10) 173 - 0.005
+
+Het: 0.788
+PIC: 0.778
+
+Individuals Used: 97 of 397
+
+1331-01: 205 181
+1331-02: 189 189
+
+Mutations:  
+   1413-02 *
+   1413-07 &
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

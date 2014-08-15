@@ -1,0 +1,27 @@
+
+Marker: GATA27F07
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 139 - 0.012
+   2) 131 - 0.024
+   3) 127 - 0.012
+   4) 123 - 0.036
+   5) 119 - 0.012
+   6) 115 - 0.631
+   7) 111 - 0.274
+
+Het: 0.525
+PIC: 0.523
+
+Individuals Used: 42 of 226
+
+1331-01: 123 115
+1331-02: 115 111
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

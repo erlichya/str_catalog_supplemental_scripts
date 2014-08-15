@@ -1,0 +1,29 @@
+
+Marker: GATA51H01
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 313 - 0.071
+   2) 309 - 0.107
+   3) 305 - 0.125
+   4) 301 - 0.018
+   5) 285 - 0.018
+   6) 281 - 0.214
+   7) 277 - 0.304
+   8) 273 - 0.143
+
+Het: 0.809
+PIC: 0.796
+
+Individuals Used: 28 of 133
+
+1331-01: 309 281
+1331-02: 273 273
+
+Mutations:  
+   1362-08 *
+
+Mendelian Check:  No Mendelian errors

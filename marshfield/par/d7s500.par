@@ -1,0 +1,32 @@
+
+Marker: D7S500
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 210 - 0.018
+   2) 208 - 0.054
+   3) 206 - 0.071
+   4) 204 - 0.143
+   5) 202 - 0.018
+   6) 200 - 0.054
+   7) 198 - 0.054
+   8) 196 - 0.161
+   9) 194 - 0.018
+  10) 192 - 0.125
+  11) 190 - 0.054
+  12) 188 - 0.232
+
+Het: 0.867
+PIC: 0.854
+
+Individuals Used: 28 of 133
+
+1331-01: 192 210
+1331-02: 190 204
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

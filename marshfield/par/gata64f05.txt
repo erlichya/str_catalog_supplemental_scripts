@@ -1,0 +1,27 @@
+
+Marker: GATA64F05
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 191 - 0.036
+   2) 187 - 0.107
+   3) 183 - 0.357
+   4) 179 - 0.411
+   5) 175 - 0.054
+   6) 171 - 0.018
+   7) 167 - 0.018
+
+Het: 0.688
+PIC: 0.682
+
+Individuals Used: 28 of 133
+
+1331-01: 179 175
+1331-02: 179 167
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

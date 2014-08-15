@@ -1,0 +1,27 @@
+
+Marker: Mfd270
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 277 - 0.032
+   2) 275 - 0.553
+   3) 273 - 0.404
+   4) 267 - 0.011
+
+Het: 0.529
+PIC: 0.529
+
+Individuals Used: 47 of 197
+
+1331-01: 275 273
+1331-02: 275 275
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1344...
+ - ERROR(1344-1): Invalid Genotype

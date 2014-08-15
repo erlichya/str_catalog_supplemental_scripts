@@ -1,0 +1,29 @@
+
+Marker: GGAA5F09
+
+Project: CEPH
+
+Date: Tuesday, May 14, 1996
+
+Frequencies:
+   1) 176 - 0.005
+   2) 172 - 0.040
+   3) 168 - 0.187
+   4) 164 - 0.177
+   5) 160 - 0.141
+   6) 156 - 0.101
+   7) 152 - 0.152
+   8) 148 - 0.172
+   9) 144 - 0.025
+
+Het: 0.849
+PIC: 0.836
+
+Individuals Used: 99 of 397
+
+1331-01: 164 148
+1331-02: 168 148
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

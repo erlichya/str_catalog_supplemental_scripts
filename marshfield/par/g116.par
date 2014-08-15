@@ -1,0 +1,32 @@
+
+Marker: G116
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 160 - 0.060
+   2) 156 - 0.004
+   3) 154 - 0.093
+   4) 152 - 0.048
+   5) 150 - 0.141
+   6) 148 - 0.093
+   7) 146 - 0.073
+   8) 144 - 0.145
+   9) 142 - 0.065
+  10) 136 - 0.044
+  11) 134 - 0.234
+
+Het: 0.870
+PIC: 0.858
+
+Individuals Used: 124 of 498
+
+1331-01: 148 134
+1331-02: 152 150
+
+Mutations:  
+    884-02 *
+
+Mendelian Check:  No Mendelian errors

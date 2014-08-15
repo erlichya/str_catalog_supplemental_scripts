@@ -1,0 +1,25 @@
+
+Marker: GTAT1A7
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 184 - 0.026
+   2) 180 - 0.395
+   3) 176 - 0.500
+   4) 172 - 0.026
+   5) 168 - 0.053
+
+Het: 0.590
+PIC: 0.587
+
+Individuals Used: 19 of 134
+
+1331-01: 184 176
+1331-02: 180 180
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

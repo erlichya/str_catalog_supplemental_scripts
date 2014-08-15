@@ -1,0 +1,29 @@
+
+Marker: ATA24G04
+
+Project: CEPH
+
+Date: Tuesday, May 14, 1996
+
+Frequencies:
+   1) 103 - 0.019
+   2) 100 - 0.111
+   3)  97 - 0.296
+   4)  94 - 0.481
+   5)  91 - 0.037
+   6)  88 - 0.019
+   7)  85 - 0.037
+
+Het: 0.665
+PIC: 0.657
+
+Individuals Used: 27 of 133
+
+1331-01: 100  94
+1331-02:  97  97
+
+Mutations:  
+    102-04 *
+   1413-01 *
+
+Mendelian Check:  No Mendelian errors

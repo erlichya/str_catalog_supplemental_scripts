@@ -1,0 +1,26 @@
+
+Marker: ATA73A08
+
+Project: CEPH
+
+Date: Thursday, June 06, 1996
+
+Frequencies:
+   1) 141 - 0.096
+   2) 138 - 0.058
+   3) 135 - 0.538
+   4) 132 - 0.096
+   5) 126 - 0.192
+   6) 114 - 0.019
+
+Het: 0.651
+PIC: 0.623
+
+Individuals Used: 26 of 133
+
+1331-01: 138 126
+1331-02: 135 126
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,33 @@
+
+Marker: GATA66B04
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 256 - 0.010
+   2) 252 - 0.046
+   3) 248 - 0.186
+   4) 244 - 0.294
+   5) 240 - 0.119
+   6) 236 - 0.021
+   7) 232 - 0.021
+   8) 228 - 0.041
+   9) 224 - 0.263
+
+Het: 0.791
+PIC: 0.770
+
+Individuals Used: 97 of 397
+
+1331-01: 248 244
+1331-02: 240 224
+
+Mutations:  
+    884-12 *
+   1362-15 &
+   1377-01 *
+   1420-04 &
+
+Mendelian Check:  No Mendelian errors

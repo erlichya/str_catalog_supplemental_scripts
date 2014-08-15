@@ -1,0 +1,38 @@
+
+Marker: GATA5A09
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 258 - 0.006
+   2) 254 - 0.012
+   3) 253 - 0.035
+   4) 250 - 0.071
+   5) 249 - 0.041
+   6) 246 - 0.171
+   7) 242 - 0.206
+   8) 238 - 0.212
+   9) 234 - 0.047
+  10) 230 - 0.065
+  11) 218 - 0.135
+
+Het: 0.851
+PIC: 0.840
+
+Individuals Used: 85 of 412
+
+1331-01: 246 218
+1331-02: 250 218
+
+Mutations:  
+   1416-13 *
+   1416-14 *
+    104-01 *
+   1334-12 *
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1418...
+ - ERROR(1418: parents 1-2): Incompatibility

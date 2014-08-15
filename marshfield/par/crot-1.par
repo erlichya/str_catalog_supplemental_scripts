@@ -1,0 +1,29 @@
+
+Marker: CROT-1
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 137 - 0.018
+   2) 135 - 0.018
+   3) 131 - 0.036
+   4) 129 - 0.054
+   5) 127 - 0.125
+   6) 125 - 0.089
+   7) 123 - 0.446
+   8) 121 - 0.071
+   9) 115 - 0.143
+
+Het: 0.747
+PIC: 0.729
+
+Individuals Used: 28 of 134
+
+1331-01: 137 125
+1331-02: 127 125
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

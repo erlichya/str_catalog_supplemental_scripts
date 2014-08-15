@@ -1,0 +1,29 @@
+
+Marker: A139YA9
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 268 - 0.022
+   2) 264 - 0.043
+   3) 262 - 0.087
+   4) 260 - 0.674
+   5) 258 - 0.043
+   6) 256 - 0.130
+
+Het: 0.517
+PIC: 0.499
+
+Individuals Used: 23 of 133
+
+1331-01: 260 256
+1331-02: 260 260
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1362...
+ - ERROR(1362: parents 1-2): Incompatibility

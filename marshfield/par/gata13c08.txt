@@ -1,0 +1,26 @@
+
+Marker: GATA13C08
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 209 - 0.026
+   2) 205 - 0.026
+   3) 201 - 0.237
+   4) 197 - 0.237
+   5) 193 - 0.395
+   6) 189 - 0.079
+
+Het: 0.724
+PIC: 0.705
+
+Individuals Used: 19 of 118
+
+1331-01: 193 193
+1331-02: 193 193
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

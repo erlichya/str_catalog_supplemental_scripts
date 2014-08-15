@@ -1,0 +1,34 @@
+
+Marker: GATA184A08
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 201 - 0.041
+   2) 197 - 0.066
+   3) 193 - 0.138
+   4) 189 - 0.066
+   5) 185 - 0.015
+   6) 181 - 0.041
+   7) 177 - 0.173
+   8) 173 - 0.403
+   9) 169 - 0.031
+  10) 161 - 0.026
+
+Het: 0.775
+PIC: 0.762
+
+Individuals Used: 98 of 397
+
+1331-01: 185 173
+1331-02: 173 169
+
+Mutations:  
+   1347-04 *
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

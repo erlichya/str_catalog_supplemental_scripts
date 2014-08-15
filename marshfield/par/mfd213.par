@@ -1,0 +1,31 @@
+
+Marker: Mfd213
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 132 - 0.008
+   2) 130 - 0.032
+   3) 128 - 0.089
+   4) 126 - 0.339
+   5) 124 - 0.331
+   6) 122 - 0.161
+   7) 120 - 0.032
+   8) 116 - 0.008
+
+Het: 0.740
+PIC: 0.731
+
+Individuals Used: 62 of 249
+
+1331-01: 126 124
+1331-02: 126 124
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1331...
+ - ERROR(1331-3): Invalid Genotype

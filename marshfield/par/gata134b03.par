@@ -1,0 +1,32 @@
+
+Marker: GATA134B03
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 163 - 0.042
+   2) 159 - 0.095
+   3) 155 - 0.326
+   4) 151 - 0.453
+   5) 147 - 0.079
+   6) 139 - 0.005
+
+Het: 0.672
+PIC: 0.665
+
+Individuals Used: 95 of 397
+
+1331-01: 163 151
+1331-02: 163 159
+
+Mutations:  
+    884-09 &
+   1362-12 *
+   1345-12 &
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

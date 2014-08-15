@@ -1,0 +1,28 @@
+
+Marker: GATA10C02
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 225 - 0.033
+   2) 221 - 0.067
+   3) 217 - 0.167
+   4) 213 - 0.267
+   5) 209 - 0.267
+   6) 205 - 0.067
+   7) 201 - 0.067
+   8) 197 - 0.067
+
+Het: 0.811
+PIC: 0.801
+
+Individuals Used: 15 of 134
+
+1331-01: 221 209
+1331-02: 213 209
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

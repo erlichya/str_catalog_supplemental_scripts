@@ -1,0 +1,23 @@
+
+Marker: GGAT4C11
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 145 - 0.296
+   2) 141 - 0.167
+   3) 137 - 0.537
+
+Het: 0.596
+PIC: 0.545
+
+Individuals Used: 27 of 134
+
+1331-01: 145 141
+1331-02: 145 137
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

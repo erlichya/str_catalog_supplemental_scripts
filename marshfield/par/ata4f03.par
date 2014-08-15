@@ -1,0 +1,32 @@
+
+Marker: ATA4F03
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 255 - 0.006
+   2) 252 - 0.180
+   3) 249 - 0.073
+   4) 246 - 0.124
+   5) 243 - 0.056
+   6) 240 - 0.236
+   7) 237 - 0.320
+   8) 234 - 0.006
+
+Het: 0.786
+PIC: 0.767
+
+Individuals Used: 89 of 397
+
+1331-01: 237 237
+1331-02: 246 237
+
+Mutations:  
+  13292-01 *
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-9): Invalid Genotype

@@ -1,0 +1,24 @@
+
+Marker: ATA10C01
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 256 - 0.167
+   2) 253 - 0.021
+   3) 250 - 0.458
+   4) 244 - 0.354
+
+Het: 0.636
+PIC: 0.618
+
+Individuals Used: 24 of 115
+
+1331-01: 250 244
+1331-02: 256 250
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

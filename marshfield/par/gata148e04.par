@@ -1,0 +1,34 @@
+
+Marker: GATA148E04
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 260 - 0.031
+   2) 256 - 0.093
+   3) 252 - 0.299
+   4) 248 - 0.309
+   5) 245 - 0.005
+   6) 244 - 0.206
+   7) 240 - 0.041
+   8) 236 - 0.015
+
+Het: 0.761
+PIC: 0.742
+
+Individuals Used: 97 of 397
+
+1331-01: 256 244
+1331-02: 256 248
+
+Mutations:  
+   1418-08 &
+  13292-03 *
+   1350-04 *
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

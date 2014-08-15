@@ -1,0 +1,24 @@
+
+Marker: GATA68D01
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 248 - 0.025
+   2) 244 - 0.400
+   3) 240 - 0.500
+   4) 236 - 0.075
+
+Het: 0.584
+PIC: 0.582
+
+Individuals Used: 20 of 133
+
+1331-01: 244 240
+1331-02: 248 240
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

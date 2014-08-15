@@ -1,0 +1,29 @@
+
+Marker: ATA22G07
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 138 - 0.063
+   2) 135 - 0.042
+   3) 132 - 0.333
+   4) 129 - 0.120
+   5) 126 - 0.063
+   6) 123 - 0.005
+   7) 120 - 0.010
+   8) 117 - 0.365
+
+Het: 0.732
+PIC: 0.694
+
+Individuals Used: 96 of 397
+
+1331-01: 138 132
+1331-02: 138 117
+
+Mutations:  
+   1347-04 *
+
+Mendelian Check:  No Mendelian errors

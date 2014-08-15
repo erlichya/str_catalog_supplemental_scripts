@@ -1,0 +1,31 @@
+
+Marker: Mfd191
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 129 - 0.031
+   2) 127 - 0.047
+   3) 125 - 0.109
+   4) 123 - 0.016
+   5) 121 - 0.609
+   6) 119 - 0.094
+   7) 117 - 0.078
+   8) 111 - 0.016
+
+Het: 0.598
+PIC: 0.582
+
+Individuals Used: 32 of 136
+
+1331-01: 129 121
+1331-02: 121 121
+
+Mutations:  
+   1333-13 *
+   1333-14 *
+   1340-06 *
+
+Mendelian Check:  No Mendelian errors

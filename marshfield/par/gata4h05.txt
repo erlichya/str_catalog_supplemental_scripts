@@ -1,0 +1,24 @@
+
+Marker: GATA4H05
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 156 - 0.049
+   2) 152 - 0.934
+   3) 148 - 0.008
+   4) 140 - 0.008
+
+Het: 0.124
+PIC: 0.124
+
+Individuals Used: 61 of 267
+
+1331-01: 152 152
+1331-02: 156 152
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

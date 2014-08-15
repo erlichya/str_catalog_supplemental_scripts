@@ -1,0 +1,28 @@
+
+Marker: ATA5E03
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 169 - 0.036
+   2) 166 - 0.107
+   3) 163 - 0.125
+   4) 160 - 0.045
+   5) 154 - 0.071
+   6) 151 - 0.179
+   7) 148 - 0.438
+
+Het: 0.741
+PIC: 0.725
+
+Individuals Used: 56 of 267
+
+1331-01: 151 151
+1331-02: 160 148
+
+Mutations:  
+   1362-09 *
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,32 @@
+
+Marker: GATA84G04
+
+Project: CEPH
+
+Date: Thursday, May 16, 1996
+
+Frequencies:
+   1) 376 - 0.031
+   2) 374 - 0.031
+   3) 372 - 0.094
+   4) 368 - 0.094
+   5) 366 - 0.281
+   6) 364 - 0.063
+   7) 360 - 0.031
+   8) 356 - 0.063
+   9) 344 - 0.219
+  10) 340 - 0.094
+
+Het: 0.836
+PIC: 0.821
+
+Individuals Used: 16 of 133
+
+1331-01: 366 366
+1331-02: 364 340
+
+Mutations:  
+    102-04 *
+   1331-16 *
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,26 @@
+
+Marker: GATA135F02
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 173 - 0.037
+   2) 169 - 0.093
+   3) 165 - 0.222
+   4) 161 - 0.315
+   5) 157 - 0.204
+   6) 153 - 0.130
+
+Het: 0.783
+PIC: 0.771
+
+Individuals Used: 27 of 133
+
+1331-01: 169 157
+1331-02: 161 153
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

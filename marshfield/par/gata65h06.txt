@@ -1,0 +1,28 @@
+
+Marker: GATA65H06
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 270 - 0.005
+   2) 266 - 0.005
+   3) 262 - 0.031
+   4) 258 - 0.115
+   5) 254 - 0.302
+   6) 250 - 0.469
+   7) 246 - 0.073
+
+Het: 0.670
+PIC: 0.662
+
+Individuals Used: 96 of 397
+
+1331-01: 262 254
+1331-02: 254 246
+
+Mutations:  
+   1340-04 *
+
+Mendelian Check:  No Mendelian errors

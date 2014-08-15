@@ -1,0 +1,28 @@
+
+Marker: ATA5H04
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 248 - 0.008
+   2) 245 - 0.083
+   3) 242 - 0.483
+   4) 239 - 0.125
+   5) 236 - 0.067
+   6) 233 - 0.217
+   7) 230 - 0.017
+
+Het: 0.692
+PIC: 0.665
+
+Individuals Used: 60 of 267
+
+1331-01: 245 233
+1331-02: 239 233
+
+Mutations:  
+    884-01 *
+
+Mendelian Check:  No Mendelian errors

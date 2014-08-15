@@ -1,0 +1,29 @@
+
+Marker: GATA168F06
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 232 - 0.015
+   2) 228 - 0.366
+   3) 224 - 0.387
+   4) 220 - 0.010
+   5) 216 - 0.052
+   6) 212 - 0.170
+
+Het: 0.685
+PIC: 0.667
+
+Individuals Used: 97 of 397
+
+1331-01: 228 224
+1331-02: 224 224
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

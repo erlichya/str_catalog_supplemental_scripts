@@ -1,0 +1,25 @@
+
+Marker: ATA25E07
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 119 - 0.071
+   2) 116 - 0.429
+   3) 113 - 0.393
+   4) 110 - 0.036
+   5) 104 - 0.071
+
+Het: 0.651
+PIC: 0.645
+
+Individuals Used: 14 of 82
+
+1331-01: 116 113
+1331-02: 113 104
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

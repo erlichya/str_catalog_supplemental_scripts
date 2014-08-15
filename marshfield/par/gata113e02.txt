@@ -1,0 +1,24 @@
+
+Marker: GATA113E02
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 128 - 0.065
+   2) 124 - 0.457
+   3) 120 - 0.326
+   4) 104 - 0.152
+
+Het: 0.658
+PIC: 0.647
+
+Individuals Used: 23 of 133
+
+1331-01: 124 120
+1331-02: 120 104
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

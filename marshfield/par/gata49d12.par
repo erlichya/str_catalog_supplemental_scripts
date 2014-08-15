@@ -1,0 +1,33 @@
+
+Marker: GATA49D12
+
+Project: CEPH
+
+Date: Thursday, May 16, 1996
+
+Frequencies:
+   1) 217 - 0.020
+   2) 213 - 0.080
+   3) 209 - 0.100
+   4) 205 - 0.220
+   5) 201 - 0.040
+   6) 197 - 0.080
+   7) 193 - 0.200
+   8) 189 - 0.180
+   9) 185 - 0.060
+  10) 181 - 0.020
+
+Het: 0.850
+PIC: 0.838
+
+Individuals Used: 25 of 133
+
+1331-01: 197 193
+1331-02: 205 189
+
+Mutations:  
+    884-04 &
+   1332-06 *
+   1347-14 *
+
+Mendelian Check:  No Mendelian errors

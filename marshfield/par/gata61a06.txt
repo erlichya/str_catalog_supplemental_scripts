@@ -1,0 +1,29 @@
+
+Marker: GATA61A06
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 239 - 0.031
+   2) 235 - 0.119
+   3) 231 - 0.428
+   4) 227 - 0.320
+   5) 223 - 0.093
+   6) 219 - 0.010
+
+Het: 0.691
+PIC: 0.684
+
+Individuals Used: 97 of 397
+
+1331-01: 235 223
+1331-02: 231 227
+
+Mutations:  
+   1332-11 *
+  13292-01 *
+   1350-06 *
+
+Mendelian Check:  No Mendelian errors

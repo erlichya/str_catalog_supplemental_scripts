@@ -1,0 +1,169 @@
+
+Marker: GATA31F01
+
+Project: CEPH
+
+Date: Tuesday, May 14, 1996
+
+Frequencies:
+   1) 154 - 0.010
+   2) 150 - 0.077
+   3) 146 - 0.191
+   4) 142 - 0.268
+   5) 138 - 0.345
+   6) 134 - 0.021
+   7) 122 - 0.026
+   8) 118 - 0.062
+
+Het: 0.762
+PIC: 0.748
+
+Individuals Used: 97 of 397
+
+1331-01: 146 146
+1331-02: 150 146
+
+Mutations:  
+   1408-01 *
+   1345-02 *
+   1345-05 *
+   1350-06 *
+
+Mendelian Check:  87 Error(s) Found
+
+Family 102...
+ - ERROR(102-4): Invalid Genotype
+ - ERROR(102-16): Invalid Genotype
+
+Family 884...
+ - ERROR(884-1): Invalid Genotype
+ - ERROR(884-6): Invalid Genotype
+ - ERROR(884-7): Invalid Genotype
+ - ERROR(884-8): Invalid Genotype
+ - ERROR(884-11): Invalid Genotype
+ - ERROR(884-12): Invalid Genotype
+
+Family 1331...
+ - ERROR(1331-4): Invalid Genotype
+ - ERROR(1331-11): Invalid Genotype
+
+Family 1332...
+ - ERROR(1332-1): Invalid Genotype
+ - ERROR(1332-4): Invalid Genotype
+ - ERROR(1332-6): Invalid Genotype
+ - ERROR(1332-11): Invalid Genotype
+ - ERROR(1332-12): Invalid Genotype
+ - ERROR(1332-17): Invalid Genotype
+
+Family 1347...
+ - ERROR(1347-1): Invalid Genotype
+
+Family 1362...
+ - ERROR(1362-5): Invalid Genotype
+ - ERROR(1362-8): Invalid Genotype
+ - ERROR(1362-11): Invalid Genotype
+ - ERROR(1362-17): Invalid Genotype
+
+Family 1413...
+ - ERROR(1413-8): Invalid Genotype
+ - ERROR(1413-10): Invalid Genotype
+ - ERROR(1413-11): Invalid Genotype
+ - ERROR(1413-14): Invalid Genotype
+ - ERROR(1413-15): Invalid Genotype
+
+Family 1416...
+ - ERROR(1416-1): Invalid Genotype
+ - ERROR(1416-2): Invalid Genotype
+ - ERROR(1416-4): Invalid Genotype
+
+Family 1333...
+ - ERROR(1333-3): Invalid Genotype
+ - ERROR(1333-4): Invalid Genotype
+ - ERROR(1333-5): Invalid Genotype
+ - ERROR(1333-7): Invalid Genotype
+ - ERROR(1333-8): Invalid Genotype
+ - ERROR(1333-9): Invalid Genotype
+ - ERROR(1333-10): Invalid Genotype
+
+Family 1341...
+ - ERROR(1341-10): Invalid Genotype
+
+Family 1344...
+ - ERROR(1344-1): Invalid Genotype
+ - ERROR(1344-6): Invalid Genotype
+ - ERROR(1344-11): Invalid Genotype
+
+Family 1346...
+ - ERROR(1346-1): Invalid Genotype
+ - ERROR(1346-3): Invalid Genotype
+ - ERROR(1346-5): Invalid Genotype
+
+Family 1423...
+ - ERROR(1423-1): Invalid Genotype
+ - ERROR(1423-3): Invalid Genotype
+ - ERROR(1423-6): Invalid Genotype
+ - ERROR(1423-7): Invalid Genotype
+ - ERROR(1423-10): Invalid Genotype
+
+Family 104...
+ - ERROR(104-3): Invalid Genotype
+
+Family 1424...
+ - ERROR(1424-1): Invalid Genotype
+ - ERROR(1424-4): Invalid Genotype
+ - ERROR(1424-8): Invalid Genotype
+ - ERROR(1424-10): Invalid Genotype
+
+Family 1418...
+ - ERROR(1418-6): Invalid Genotype
+ - ERROR(1418-8): Invalid Genotype
+
+Family 1420...
+ - ERROR(1420-1): Invalid Genotype
+ - ERROR(1420-13): Invalid Genotype
+
+Family 1421...
+ - ERROR(1421-1): Invalid Genotype
+ - ERROR(1421-8): Invalid Genotype
+ - ERROR(1421-11): Invalid Genotype
+ - ERROR(1421-12): Invalid Genotype
+
+Family 1334...
+ - ERROR(1334-1): Invalid Genotype
+ - ERROR(1334-3): Invalid Genotype
+ - ERROR(1334-5): Invalid Genotype
+ - ERROR(1334-6): Invalid Genotype
+ - ERROR(1334-7): Invalid Genotype
+ - ERROR(1334-8): Invalid Genotype
+ - ERROR(1334-9): Invalid Genotype
+
+Family 1340...
+ - ERROR(1340-1): Invalid Genotype
+ - ERROR(1340-5): Invalid Genotype
+ - ERROR(1340-7): Invalid Genotype
+ - ERROR(1340-13): Invalid Genotype
+
+Family 13291...
+ - ERROR(13291-1): Invalid Genotype
+ - ERROR(13291-3): Invalid Genotype
+ - ERROR(13291-4): Invalid Genotype
+ - ERROR(13291-7): Invalid Genotype
+ - ERROR(13291-8): Invalid Genotype
+
+Family 13292...
+ - ERROR(13292-1): Invalid Genotype
+ - ERROR(13292-7): Invalid Genotype
+ - ERROR(13292-8): Invalid Genotype
+
+Family 1375...
+ - ERROR(1375-3): Invalid Genotype
+ - ERROR(1375-13): Invalid Genotype
+
+Family 1345...
+ - ERROR(1345-1): Invalid Genotype
+ - ERROR(1345-4): Invalid Genotype
+ - ERROR(1345-6): Invalid Genotype
+ - ERROR(1345-8): Invalid Genotype
+
+Family 1350...
+ - ERROR(1350-4): Invalid Genotype

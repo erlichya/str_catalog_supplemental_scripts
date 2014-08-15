@@ -1,0 +1,25 @@
+
+Marker: Mfd211
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1)  85 - 0.008
+   2)  83 - 0.016
+   3)  81 - 0.107
+   4)  79 - 0.623
+   5)  77 - 0.246
+
+Het: 0.540
+PIC: 0.538
+
+Individuals Used: 61 of 253
+
+1331-01:  79  79
+1331-02:  81  77
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

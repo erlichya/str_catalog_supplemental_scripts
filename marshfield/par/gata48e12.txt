@@ -1,0 +1,26 @@
+
+Marker: GATA48E12
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 101 - 0.093
+   2)  97 - 0.222
+   3)  93 - 0.630
+   4)  89 - 0.056
+
+Het: 0.543
+PIC: 0.535
+
+Individuals Used: 27 of 133
+
+1331-01:  97  97
+1331-02:  93  93
+
+Mutations:  
+   1331-06 *
+   1413-02 *
+
+Mendelian Check:  No Mendelian errors

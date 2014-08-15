@@ -1,0 +1,31 @@
+
+Marker: GATA8F03
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 159 - 0.010
+   2) 155 - 0.034
+   3) 151 - 0.304
+   4) 147 - 0.044
+   5) 146 - 0.010
+   6) 143 - 0.029
+   7) 142 - 0.020
+   8) 139 - 0.324
+   9) 135 - 0.221
+  10) 127 - 0.005
+
+Het: 0.750
+PIC: 0.720
+
+Individuals Used: 102 of 417
+
+1331-01: 151 135
+1331-02: 147 139
+
+Mutations:  
+   1420-08 *
+
+Mendelian Check:  No Mendelian errors

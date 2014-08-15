@@ -1,0 +1,26 @@
+
+Marker: ATA43C09
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 142 - 0.018
+   2) 139 - 0.179
+   3) 136 - 0.214
+   4) 133 - 0.107
+   5) 130 - 0.071
+   6) 127 - 0.411
+
+Het: 0.737
+PIC: 0.705
+
+Individuals Used: 28 of 133
+
+1331-01: 130 127
+1331-02: 136 130
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

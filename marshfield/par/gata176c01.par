@@ -1,0 +1,38 @@
+
+Marker: GATA176C01
+
+Project: CEPH
+
+Date: Tuesday, August 20, 1996
+
+Frequencies:
+   1) 244 - 0.043
+   2) 240 - 0.129
+   3) 236 - 0.124
+   4) 232 - 0.237
+   5) 228 - 0.409
+   6) 224 - 0.048
+   7) 216 - 0.005
+   8) 212 - 0.005
+
+Het: 0.741
+PIC: 0.727
+
+Individuals Used: 93 of 397
+
+1331-01: 232 228
+1331-02: 236 228
+
+Mutations:  
+   1347-13 &
+   1333-13 *
+   1333-14 *
+   1344-02 *
+   1423-11 *
+   1423-12 *
+   1345-04 *
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

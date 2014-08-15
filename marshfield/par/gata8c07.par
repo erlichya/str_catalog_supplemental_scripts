@@ -1,0 +1,33 @@
+
+Marker: GATA8C07
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 250 - 0.018
+   2) 248 - 0.018
+   3) 246 - 0.018
+   4) 244 - 0.054
+   5) 242 - 0.125
+   6) 240 - 0.214
+   7) 238 - 0.143
+   8) 236 - 0.196
+   9) 234 - 0.071
+  10) 232 - 0.054
+  11) 230 - 0.054
+  12) 228 - 0.036
+
+Het: 0.864
+PIC: 0.855
+
+Individuals Used: 28 of 133
+
+1331-01: 240 234
+1331-02: 234 230
+
+Mutations:  
+    102-04 *
+
+Mendelian Check:  No Mendelian errors

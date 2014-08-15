@@ -1,0 +1,41 @@
+
+Marker: Mfd224
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 232 - 0.008
+   2) 230 - 0.008
+   3) 228 - 0.008
+   4) 226 - 0.017
+   5) 224 - 0.059
+   6) 222 - 0.042
+   7) 220 - 0.034
+   8) 218 - 0.093
+   9) 216 - 0.093
+  10) 214 - 0.076
+  11) 200 - 0.051
+  12) 198 - 0.466
+  13) 194 - 0.008
+  14) 186 - 0.034
+
+Het: 0.749
+PIC: 0.735
+
+Individuals Used: 59 of 247
+
+1331-01: 224 198
+1331-02: 200 198
+
+Mutations:  
+   1341-12 *
+
+Mendelian Check:  4 Error(s) Found
+
+Family 1346...
+ - ERROR(1346-5): Invalid Genotype
+ - ERROR(1346-6): Invalid Genotype
+ - ERROR(1346-7): Invalid Genotype
+ - ERROR(1346: parents 1-2): Too many alleles

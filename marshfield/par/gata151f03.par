@@ -1,0 +1,30 @@
+
+Marker: GATA151F03
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 220 - 0.040
+   2) 216 - 0.167
+   3) 212 - 0.116
+   4) 208 - 0.338
+   5) 204 - 0.323
+   6) 200 - 0.015
+
+Het: 0.738
+PIC: 0.722
+
+Individuals Used: 99 of 397
+
+1331-01: 208 204
+1331-02: 212 208
+
+Mutations:  
+   1332-08 &
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

@@ -1,0 +1,28 @@
+
+Marker: ATA18A07
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 132 - 0.005
+   2) 129 - 0.250
+   3) 126 - 0.071
+   4) 123 - 0.020
+   5) 120 - 0.005
+   6) 111 - 0.015
+   7) 108 - 0.541
+   8) 105 - 0.092
+
+Het: 0.631
+PIC: 0.590
+
+Individuals Used: 98 of 397
+
+1331-01: 126 105
+1331-02: 126 108
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,32 @@
+
+Marker: Mfd254
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 139 - 0.008
+   2) 137 - 0.008
+   3) 135 - 0.016
+   4) 133 - 0.137
+   5) 131 - 0.315
+   6) 129 - 0.056
+   7) 127 - 0.024
+   8) 125 - 0.056
+   9) 123 - 0.121
+  10) 121 - 0.121
+  11) 119 - 0.129
+  12) 117 - 0.008
+
+Het: 0.829
+PIC: 0.816
+
+Individuals Used: 62 of 250
+
+1331-01: 121 119
+1331-02: 131 121
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

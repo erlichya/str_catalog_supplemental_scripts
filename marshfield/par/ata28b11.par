@@ -1,0 +1,31 @@
+
+Marker: ATA28B11
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 268 - 0.066
+   2) 266 - 0.056
+   3) 264 - 0.081
+   4) 263 - 0.121
+   5) 260 - 0.278
+   6) 257 - 0.066
+   7) 256 - 0.056
+   8) 254 - 0.030
+   9) 252 - 0.010
+  10) 251 - 0.192
+  11) 248 - 0.045
+
+Het: 0.847
+PIC: 0.834
+
+Individuals Used: 99 of 397
+
+1331-01: 260 260
+1331-02: 260 251
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

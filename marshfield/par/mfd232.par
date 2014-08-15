@@ -1,0 +1,32 @@
+
+Marker: Mfd232
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 233 - 0.011
+   2) 229 - 0.016
+   3) 225 - 0.115
+   4) 221 - 0.198
+   5) 217 - 0.055
+   6) 213 - 0.060
+   7) 209 - 0.192
+   8) 205 - 0.033
+   9) 197 - 0.088
+  10) 185 - 0.231
+
+Het: 0.841
+PIC: 0.825
+
+Individuals Used: 91 of 372
+
+1331-01: 213 185
+1331-02: 229 209
+
+Mutations:  
+    884-17 *
+    884-18 *
+
+Mendelian Check:  No Mendelian errors

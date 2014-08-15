@@ -1,0 +1,31 @@
+
+Marker: Mfd290
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1)  89 - 0.125
+   2)  87 - 0.229
+   3)  85 - 0.042
+   4)  83 - 0.177
+   5)  79 - 0.323
+   6)  77 - 0.021
+   7)  75 - 0.073
+   8)  73 - 0.010
+
+Het: 0.789
+PIC: 0.767
+
+Individuals Used: 48 of 198
+
+1331-01:  89  79
+1331-02:  89  83
+
+Mutations:  none
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1340...
+ - ERROR(1340: parents 1-2): Too many alleles

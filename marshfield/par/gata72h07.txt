@@ -1,0 +1,32 @@
+
+Marker: GATA72H07
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 301 - 0.005
+   2) 297 - 0.020
+   3) 293 - 0.106
+   4) 289 - 0.172
+   5) 285 - 0.096
+   6) 281 - 0.005
+   7) 277 - 0.005
+   8) 273 - 0.005
+   9) 269 - 0.247
+  10) 265 - 0.061
+  11) 257 - 0.278
+
+Het: 0.807
+PIC: 0.783
+
+Individuals Used: 99 of 397
+
+1331-01: 265 265
+1331-02: 293 257
+
+Mutations:  
+    102-08 *
+
+Mendelian Check:  No Mendelian errors

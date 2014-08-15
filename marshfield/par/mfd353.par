@@ -1,0 +1,30 @@
+
+Marker: Mfd353
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 249 - 0.010
+   2) 231 - 0.010
+   3) 229 - 0.235
+   4) 225 - 0.010
+   5) 223 - 0.031
+   6) 221 - 0.235
+   7) 219 - 0.031
+   8) 213 - 0.041
+   9) 211 - 0.388
+  10) 209 - 0.010
+
+Het: 0.736
+PIC: 0.695
+
+Individuals Used: 49 of 206
+
+1331-01: 221 221
+1331-02: 229 211
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

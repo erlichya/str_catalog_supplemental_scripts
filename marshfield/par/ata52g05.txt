@@ -1,0 +1,27 @@
+
+Marker: ATA52G05
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 240 - 0.268
+   2) 237 - 0.232
+   3) 234 - 0.196
+   4) 231 - 0.054
+   5) 228 - 0.036
+   6) 225 - 0.071
+   7) 219 - 0.143
+
+Het: 0.806
+PIC: 0.791
+
+Individuals Used: 28 of 133
+
+1331-01: 228 219
+1331-02: 240 237
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,26 @@
+
+Marker: GATA23G09
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 150 - 0.036
+   2) 146 - 0.250
+   3) 142 - 0.357
+   4) 138 - 0.304
+   5) 134 - 0.018
+   6) 130 - 0.036
+
+Het: 0.715
+PIC: 0.702
+
+Individuals Used: 28 of 133
+
+1331-01: 146 142
+1331-02: 142 138
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

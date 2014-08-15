@@ -1,0 +1,27 @@
+
+Marker: D1S228
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 129 - 0.019
+   2) 127 - 0.019
+   3) 125 - 0.096
+   4) 123 - 0.038
+   5) 121 - 0.269
+   6) 119 - 0.288
+   7) 117 - 0.269
+
+Het: 0.760
+PIC: 0.745
+
+Individuals Used: 26 of 114
+
+1331-01: 119 117
+1331-02: 117 117
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

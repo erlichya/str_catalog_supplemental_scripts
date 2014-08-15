@@ -1,0 +1,30 @@
+
+Marker: GATA8G10
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 290 - 0.011
+   2) 286 - 0.101
+   3) 282 - 0.277
+   4) 278 - 0.207
+   5) 274 - 0.090
+   6) 262 - 0.314
+
+Het: 0.763
+PIC: 0.736
+
+Individuals Used: 94 of 405
+
+1331-01: 278 262
+1331-02: 278 274
+
+Mutations:  
+   1341-10 *
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1350...
+ - ERROR(1350-9): Invalid Genotype

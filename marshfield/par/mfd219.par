@@ -1,0 +1,37 @@
+
+Marker: Mfd219
+
+Project: CEPH
+
+Date: Monday, May 06, 1996
+
+Frequencies:
+   1) 275 - 0.008
+   2) 271 - 0.020
+   3) 267 - 0.048
+   4) 263 - 0.155
+   5) 259 - 0.056
+   6) 257 - 0.016
+   7) 255 - 0.008
+   8) 247 - 0.004
+   9) 235 - 0.004
+  10) 231 - 0.361
+  11) 227 - 0.210
+  12) 223 - 0.103
+  13) 219 - 0.008
+
+Het: 0.785
+PIC: 0.771
+
+Individuals Used: 126 of 504
+
+1331-01: 231 223
+1331-02: 231 227
+
+Mutations:  none
+
+Mendelian Check:  2 Error(s) Found
+
+Family 1349...
+ - ERROR(1349-9): Invalid Genotype
+ - ERROR(1349: parents 1-2): Too many alleles

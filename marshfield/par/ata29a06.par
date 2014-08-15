@@ -1,0 +1,30 @@
+
+Marker: ATA29A06
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 103 - 0.011
+   2) 100 - 0.011
+   3)  97 - 0.073
+   4)  94 - 0.101
+   5)  91 - 0.309
+   6)  88 - 0.051
+   7)  85 - 0.067
+   8)  82 - 0.028
+   9)  79 - 0.253
+  10)  76 - 0.096
+
+Het: 0.808
+PIC: 0.788
+
+Individuals Used: 89 of 397
+
+1331-01:  94  91
+1331-02:  97  76
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

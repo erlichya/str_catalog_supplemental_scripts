@@ -1,0 +1,38 @@
+
+Marker: GATA164B08
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 240 - 0.010
+   2) 236 - 0.050
+   3) 232 - 0.140
+   4) 228 - 0.280
+   5) 224 - 0.060
+   6) 220 - 0.025
+   7) 216 - 0.025
+   8) 212 - 0.040
+   9) 208 - 0.245
+  10) 204 - 0.075
+  11) 200 - 0.005
+  12) 196 - 0.035
+  13) 192 - 0.010
+
+Het: 0.826
+PIC: 0.810
+
+Individuals Used: 100 of 397
+
+1331-01: 232 208
+1331-02: 228 204
+
+Mutations:  
+   1344-04 *
+   1423-10 *
+
+Mendelian Check:  1 Error(s) Found
+
+Family 1423...
+ - ERROR(1423-4): Invalid Genotype

@@ -1,0 +1,27 @@
+
+Marker: ATA14D03
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 200 - 0.019
+   2) 197 - 0.056
+   3) 194 - 0.056
+   4) 191 - 0.222
+   5) 188 - 0.019
+   6) 185 - 0.574
+   7) 179 - 0.056
+
+Het: 0.611
+PIC: 0.574
+
+Individuals Used: 27 of 133
+
+1331-01: 185 185
+1331-02: 185 185
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

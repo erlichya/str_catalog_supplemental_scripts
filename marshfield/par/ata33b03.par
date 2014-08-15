@@ -1,0 +1,32 @@
+
+Marker: ATA33B03
+
+Project: CEPH
+
+Date: Friday, August 16, 1996
+
+Frequencies:
+   1) 233 - 0.005
+   2) 230 - 0.026
+   3) 227 - 0.141
+   4) 224 - 0.156
+   5) 221 - 0.104
+   6) 218 - 0.359
+   7) 215 - 0.146
+   8) 212 - 0.052
+   9) 209 - 0.010
+
+Het: 0.791
+PIC: 0.776
+
+Individuals Used: 96 of 397
+
+1331-01: 227 215
+1331-02: 215 212
+
+Mutations:  
+   1341-08 *
+   1377-14 &
+   1350-01 &
+
+Mendelian Check:  No Mendelian errors

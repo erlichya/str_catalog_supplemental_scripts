@@ -1,0 +1,72 @@
+
+Marker: GATA69D06
+
+Project: CEPH
+
+Date: Friday, May 17, 1996
+
+Frequencies:
+   1) 384 - 0.205
+   2) 380 - 0.409
+   3) 376 - 0.386
+
+Het: 0.642
+PIC: 0.629
+
+Individuals Used: 22 of 133
+
+1331-01: 380 380
+1331-02: 380 376
+
+Mutations:  none
+
+Mendelian Check:  35 Error(s) Found
+
+Family 102...
+ - ERROR(102-4): Invalid Genotype
+ - ERROR(102-8): Invalid Genotype
+ - ERROR(102-9): Invalid Genotype
+ - ERROR(102-11): Invalid Genotype
+ - ERROR(102-15): Invalid Genotype
+ - ERROR(102-16): Invalid Genotype
+
+Family 884...
+ - ERROR(884-1): Invalid Genotype
+ - ERROR(884-6): Invalid Genotype
+ - ERROR(884-8): Invalid Genotype
+ - ERROR(884-11): Invalid Genotype
+
+Family 1331...
+ - ERROR(1331-4): Invalid Genotype
+ - ERROR(1331-11): Invalid Genotype
+
+Family 1347...
+ - ERROR(1347-1): Invalid Genotype
+ - ERROR(1347-4): Invalid Genotype
+ - ERROR(1347-11): Invalid Genotype
+ - ERROR(1347-16): Invalid Genotype
+
+Family 1362...
+ - ERROR(1362-1): Invalid Genotype
+ - ERROR(1362-5): Invalid Genotype
+ - ERROR(1362-8): Invalid Genotype
+ - ERROR(1362-17): Invalid Genotype
+
+Family 1413...
+ - ERROR(1413-3): Invalid Genotype
+ - ERROR(1413-4): Invalid Genotype
+ - ERROR(1413-5): Invalid Genotype
+ - ERROR(1413-8): Invalid Genotype
+ - ERROR(1413-9): Invalid Genotype
+ - ERROR(1413-11): Invalid Genotype
+ - ERROR(1413-13): Invalid Genotype
+ - ERROR(1413-14): Invalid Genotype
+ - ERROR(1413-15): Invalid Genotype
+ - ERROR(1413-17): Invalid Genotype
+
+Family 1416...
+ - ERROR(1416-1): Invalid Genotype
+ - ERROR(1416-3): Invalid Genotype
+ - ERROR(1416-4): Invalid Genotype
+ - ERROR(1416-6): Invalid Genotype
+ - ERROR(1416-8): Invalid Genotype

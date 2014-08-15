@@ -1,0 +1,30 @@
+
+Marker: GGAA30B06
+
+Project: CEPH
+
+Date: Thursday, May 16, 1996
+
+Frequencies:
+   1) 201 - 0.028
+   2) 197 - 0.028
+   3) 189 - 0.083
+   4) 185 - 0.500
+   5) 181 - 0.222
+   6) 177 - 0.028
+   7) 173 - 0.028
+   8) 169 - 0.028
+   9) 165 - 0.028
+  10) 157 - 0.028
+
+Het: 0.688
+PIC: 0.684
+
+Individuals Used: 18 of 133
+
+1331-01: 185 173
+1331-02: 181 181
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

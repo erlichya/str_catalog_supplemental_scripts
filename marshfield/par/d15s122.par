@@ -1,0 +1,29 @@
+
+Marker: D15S122
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 159 - 0.019
+   2) 157 - 0.037
+   3) 155 - 0.056
+   4) 153 - 0.019
+   5) 151 - 0.056
+   6) 149 - 0.278
+   7) 147 - 0.333
+   8) 145 - 0.167
+   9) 143 - 0.037
+
+Het: 0.774
+PIC: 0.766
+
+Individuals Used: 27 of 131
+
+1331-01: 147 145
+1331-02: 147 159
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

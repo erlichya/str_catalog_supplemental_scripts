@@ -1,0 +1,32 @@
+
+Marker: GATA44F09
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 201 - 0.066
+   2) 197 - 0.237
+   3) 193 - 0.172
+   4) 190 - 0.015
+   5) 189 - 0.035
+   6) 186 - 0.111
+   7) 185 - 0.010
+   8) 182 - 0.096
+   9) 178 - 0.157
+  10) 174 - 0.101
+
+Het: 0.852
+PIC: 0.840
+
+Individuals Used: 99 of 397
+
+1331-01: 193 186
+1331-02: 201 186
+
+Mutations:  
+    884-15 *
+   1340-07 &
+
+Mendelian Check:  No Mendelian errors

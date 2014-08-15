@@ -1,0 +1,24 @@
+
+Marker: GATA44E08
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 306 - 0.127
+   2) 302 - 0.532
+   3) 298 - 0.317
+   4) 294 - 0.024
+
+Het: 0.600
+PIC: 0.596
+
+Individuals Used: 63 of 267
+
+1331-01: 306 302
+1331-02: 306 294
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

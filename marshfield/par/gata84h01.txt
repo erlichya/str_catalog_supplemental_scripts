@@ -1,0 +1,23 @@
+
+Marker: GATA84H01
+
+Project: CEPH
+
+Date: Friday, May 03, 1996
+
+Frequencies:
+   1) 245 - 0.152
+   2) 241 - 0.435
+   3) 237 - 0.413
+
+Het: 0.617
+PIC: 0.609
+
+Individuals Used: 23 of 133
+
+1331-01: 241 241
+1331-02: 245 237
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,31 @@
+
+Marker: ATA25F10
+
+Project: CEPH
+
+Date: Tuesday, August 20, 1996
+
+Frequencies:
+   1) 220 - 0.012
+   2) 217 - 0.088
+   3) 216 - 0.024
+   4) 214 - 0.012
+   5) 213 - 0.012
+   6) 211 - 0.082
+   7) 209 - 0.006
+   8) 202 - 0.053
+   9) 199 - 0.647
+  10) 196 - 0.065
+
+Het: 0.559
+PIC: 0.545
+
+Individuals Used: 85 of 397
+
+1331-01: 199 199
+1331-02: 217 199
+
+Mutations:  
+    884-15 *
+
+Mendelian Check:  No Mendelian errors

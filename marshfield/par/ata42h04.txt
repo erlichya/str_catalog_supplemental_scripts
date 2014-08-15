@@ -1,0 +1,27 @@
+
+Marker: ATA42H04
+
+Project: CEPH
+
+Date: Monday, May 13, 1996
+
+Frequencies:
+   1) 169 - 0.268
+   2) 166 - 0.232
+   3) 163 - 0.196
+   4) 160 - 0.054
+   5) 157 - 0.036
+   6) 154 - 0.071
+   7) 148 - 0.143
+
+Het: 0.806
+PIC: 0.791
+
+Individuals Used: 28 of 133
+
+1331-01: 157 148
+1331-02: 169 166
+
+Mutations:  none
+
+Mendelian Check:  No Mendelian errors

@@ -1,0 +1,28 @@
+
+Marker: ATA21C10
+
+Project: CEPH
+
+Date: Thursday, May 02, 1996
+
+Frequencies:
+   1) 187 - 0.089
+   2) 184 - 0.143
+   3) 181 - 0.143
+   4) 178 - 0.321
+   5) 175 - 0.161
+   6) 172 - 0.107
+   7) 169 - 0.036
+
+Het: 0.809
+PIC: 0.797
+
+Individuals Used: 28 of 133
+
+1331-01: 181 178
+1331-02: 187 184
+
+Mutations:  
+    884-10 *
+
+Mendelian Check:  No Mendelian errors
